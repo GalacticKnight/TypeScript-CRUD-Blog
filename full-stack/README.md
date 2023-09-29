@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=PabMVyF9vUg
+Steps:
 git init
 
 npx create-next-app@latest
