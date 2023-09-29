@@ -1,5 +1,5 @@
 import prisma from "@/prisma";
-import { NextResponse } from "next/server";
+import { NextResponse } from "next/server";//stats messages for console. throw exceptions
 
 export async function main() {
   try {
